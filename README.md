@@ -90,8 +90,7 @@ The dashboard helps users:
 ---
 
 ## 📷 Dashboard Preview
-
-Add your dashboard screenshot here.
+Dashboard screenshot is here.
 
 ![Online Shopping Dashboard](https://github.com/HemavarshiniManoharan/Blink-it-Sales-Dashboard/blob/main/screenshot%20of%20Dashboard.png)
 
